@@ -1,4 +1,5 @@
----
----
+$header-bg-color: #a40000;
+$header-bg-color-secondary: #550000;
+$section-headings-color: #a40000;
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
