@@ -1,12 +1,16 @@
 ![Dialog](https://user-images.githubusercontent.com/13903318/59257756-89a51000-8c71-11e9-8a89-192de86e5c17.png)
 ```
 
+&nbsp;
 
 ここにTrailer？
 
+&nbsp;
 
 ```
 ### “新感覚派FPS”　
+
+&nbsp;
 
 遊び方内容
 
@@ -20,6 +24,8 @@
 
 ### 迫ってくる敵が、小籠包！？？
 
+&nbsp;
+
 設定内容
 
 内容内容
@@ -31,6 +37,8 @@
 &nbsp;
 
 ### ギャラリー
+
+&nbsp;
 
 スクリーンショット
 
@@ -44,8 +52,12 @@
 
 ### Links/Contact
 
+&nbsp;
+
 札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
 
 Github profile, SNSなど
 
+&nbsp;
 
+&nbsp;
