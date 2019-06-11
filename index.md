@@ -1,4 +1,5 @@
-# 新感覚派FPS　ちょっぷすてぃっくすますたー
+### 新感覚派FPS　
+# ちょっぷすてぃっくすますたー
 ![Dialog](https://user-images.githubusercontent.com/13903318/59257756-89a51000-8c71-11e9-8a89-192de86e5c17.png)
 
 You can use the [editor on GitHub](https://github.com/Tsurumiya/ChopsticksMasters.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
