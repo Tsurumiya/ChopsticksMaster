@@ -2,7 +2,7 @@
 
 
 
-<center>ここにTrailer？</center>
+　　　　　　　　　　ここにTrailer？
 
 
 
