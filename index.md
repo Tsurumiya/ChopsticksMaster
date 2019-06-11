@@ -36,6 +36,7 @@
 ### Links/Contact
 
 札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
+
 Github profile, SNSなど
 
 
