@@ -1,4 +1,3 @@
-# ちょっぷすてぃっくすますたー
 ![Dialog](https://user-images.githubusercontent.com/13903318/59257756-89a51000-8c71-11e9-8a89-192de86e5c17.png)
 ```
 
@@ -36,6 +35,7 @@
 
 ### Links/Contact
 
+札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
 Github profile, SNSなど
 
 
