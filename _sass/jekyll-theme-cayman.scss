@@ -141,6 +141,14 @@ a {
   }
 }
 
+.project-logo{
+    display:block;
+    width: 636px;
+    height: 240px;
+    background: url(https://user-images.githubusercontent.com/13903318/59257756-89a51000-8c71-11e9-8a89-192de86e5c17.png) 0 0 no-repeat;
+    text-indent: -20000px;
+}
+
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
@@ -201,13 +209,7 @@ a {
     max-width: 100%;
   }
 
-  h1.project-logo{
-    display:block;
-    width: 636px;
-    height: 240px;
-    background: url(https://user-images.githubusercontent.com/13903318/59257756-89a51000-8c71-11e9-8a89-192de86e5c17.png) 0 0 no-repeat;
-    text-indent: -20000px;
-  }
+  h1,
   h2,
   h3,
   h4,
