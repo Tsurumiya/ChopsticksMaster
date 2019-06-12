@@ -38,18 +38,18 @@
 ## ギャラリー
 
 <figure class="half">
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="45%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="45%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="45%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="45%"/></a>
 </figure>
 <figure class="half">
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="30%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="30%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" width="30%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="30%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="30%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" width="30%"/></a>
 </figure>
 <figure class="third">
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="30%"/></a>
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="30%"/></a>
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" target=_blank><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="30%"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="30%"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="30%"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="30%"/></a>
 </figure>
 
 &nbsp;
