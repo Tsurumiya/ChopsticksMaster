@@ -7,7 +7,7 @@
 
 
 ```
-### 新感覚FPS？　
+## 新感覚FPS？　
 
 遊び方内容
 
@@ -21,7 +21,7 @@
 
 &nbsp;
 
-### 迫ってくる敵が、まさかの小籠包！？？
+## 迫ってくる敵が、まさかの小籠包！？？
 
 設定内容
 
@@ -35,21 +35,27 @@
 
 &nbsp;
 
-### ギャラリー
+## ギャラリー
 
-スクリーンショット
+<figure class="half">
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" />
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" />
+</figure>
 
-画像画像　画像画像　画像画像
+<figure class="half">
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" />
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" />
+</figure>
 
-画像画像　画像画像　画像画像
+<figure class="third">
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg">
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg">
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg">
+</figure>
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-### Links/Contact
+## Links/Contact
 
 札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
 
