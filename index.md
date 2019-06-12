@@ -38,18 +38,18 @@
 ## ギャラリー
 
 <figure class="half">
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="48%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="48%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="48%" align="left"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="48%" align="right"/></a>
 </figure>
 <figure class="half">
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="32%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="32%"/></a>
-  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" width="32%"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="32%" align="left"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="32%" align="middle"/></a>
+  <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613001929_1.jpg" width="32%" align="right"/></a>
 </figure>
 <figure class="third">
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="32%"/></a>
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="32%"/></a>
-    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="32%"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="32%" align="left"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="32%" align="middle"/></a>
+    <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="32%" align="right"/></a>
 </figure>
 
 &nbsp;
