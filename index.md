@@ -38,19 +38,19 @@
 ## ギャラリー
 
 <figure class="half">
-  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="30%"/>
-  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="30%"/>
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000227_1.jpg" width="45%"/>
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000426_1.jpg" width="45%"/>
 </figure>
 
 <figure class="half">
-  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="30%"/>
-  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="30%"/>
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="45%"/>
+  <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011229_1.jpg" width="45%"/>
 </figure>
 
 <figure class="third">
-    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="20%"/>
-    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="20%"/>
-    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="20%"/>
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000827_1.jpg" width="30%"/>
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="30%"/>
+    <img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000701_1.jpg" width="30%"/>
 </figure>
 
 &nbsp;
