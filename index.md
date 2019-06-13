@@ -65,8 +65,6 @@
 
 <strong>札幌ゲーム製作者コミュニティKawaz学生部 開発第二班</strong>
 
-&nbsp;
-
 <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
 <a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a>
