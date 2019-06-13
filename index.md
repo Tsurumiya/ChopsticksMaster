@@ -1,5 +1,5 @@
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2PM3iyUdIa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="video_container" align="center">
+  <iframe width="96%" src="https://www.youtube.com/embed/2PM3iyUdIa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## 新感覚FPS？　
