@@ -59,7 +59,7 @@
 
 <strong>札幌ゲーム製作者コミュニティKawaz学生部 開発第二班</strong>
 
-＆　
+　　　　　＆　
 
 <strong>小樽商科大学 創作活動部</strong>
 
