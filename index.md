@@ -20,11 +20,15 @@
 
 自分の技術と愛箸（あいぼう）を信じて、道を切り開け！
 
-## 新感覚FPS？
+## 新感覚FPS
 
 『ちょっぷすてぃっくすますたー』は、敵の飛び道具を箸で掴み利用して戦う「新感覚FPS」です。一心に敵を狙って倒すのではなく、自分の技術を駆使し敵の攻撃を見極めるといった一味違った面白さを体感できます。増え続ける敵に挑戦しながら自分の限界に挑むことで、かつてないスリルと爽快感を楽しめます。
 
 君は、いつまで生き残れるか？！
+
+&nbsp;
+
+## アップデート予定
 
 &nbsp;
 
@@ -50,12 +54,6 @@
     <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613011259_1.jpg" width="32%"/></a>
     <a href="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" target="_blank"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/20190613000331_1.jpg" width="32%"/></a>
 </figure>
-
-&nbsp;
-
-&nbsp;
-
-## アップデート予定
 
 &nbsp;
 
