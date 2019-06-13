@@ -1,30 +1,40 @@
 {% include youtube.html id='2PM3iyUdIa4' %}
 
+まずい...敵がだんだん増えてきた
+
+避け続けるのも限界か...
+
+状況を打開するには敵を倒すしかないようだ
+
+...だけど、敵を倒す手段はカウンター攻撃ただ一つ！？
+
+&nbsp;
+
+武器も回復アイテムもその場で調達、
+
+避けて、掴んで、投げ返そう！
+
+&nbsp;
+
+自分の技術と愛箸（あいぼう）を信じて、道を切り開け！
+
+&nbsp;
+
+&nbsp;
+
 ## 新感覚FPS？　
 
-遊び方内容
+『ちょっぷすてぃっくすますたー』は、敵の飛び道具を箸で掴み利用して戦う「新感覚FPS」です。一心に敵を狙って倒すのではなく、自分の技術を駆使し敵の攻撃を見極めるといった一味違った面白さを体感できます。増え続ける敵に挑戦しながら自分の限界に挑むことで、かつてないスリルと爽快感を楽しめます。
 
-内容内容内容内容内容内容内容内容
-
-内容内容内容内容内容内容内容内容
-
-&nbsp;
-
-&nbsp;
+君は、いつまで生き残れるか？！
 
 &nbsp;
 
 ## 迫ってくる敵が、まさかの小籠包！？？
 
-設定内容
+大変じゃ！小籠包の神が世界中の食べ物を小籠包にしようと企んでおる！
 
-内容内容内容内容内容内容内容内容
-
-内容内容内容内容内容内容内容内容
-
-&nbsp;
-
-&nbsp;
+ゆけ、わが弟子よ！我ら『はし流』の継承者として世界を救うのじゃ！
 
 &nbsp;
 
@@ -55,13 +65,11 @@
 
 ## Links/Contact
 
-札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
+札幌ゲーム製作者コミュニティKawaz学生部 開発第二班
 
 <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
 <a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a>
-
-Github profile, SNSなど
 
 &nbsp;
 
