@@ -57,8 +57,10 @@
 
 札幌ゲーム製作者コミュニティKawaz 開発2班 (仮)
 
-<a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
-<a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a>
+<figure class="half" align="center">
+  <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
+  <a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a>
+</figure>
 
 Github profile, SNSなど
 
