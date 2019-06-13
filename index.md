@@ -55,9 +55,17 @@
 
 &nbsp;
 
+## アップデート予定
+
+&nbsp;
+
+&nbsp;
+
 ## 開発
 
-###札幌ゲーム製作者コミュニティKawaz学生部 開発第二班
+#### 札幌ゲーム製作者コミュニティKawaz学生部 開発第二班
+
+&nbsp;
 
 <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
