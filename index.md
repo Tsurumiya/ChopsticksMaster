@@ -57,22 +57,20 @@
 
 ## 開発
 
-<center><strong>札幌ゲーム製作者コミュニティKawaz学生部 開発第二班</strong></center>
+<strong>札幌ゲーム製作者コミュニティKawaz学生部 開発第二班</strong>
 
-　　　　<center><strong>＆</strong></center>
+<strong>小樽商科大学 創作活動部</strong>
 
-<center><strong>小樽商科大学 創作活動部</strong></center>
-
-<center>  - Ren</center>
-<center>  - Hiraki</center>
-<center>  - Yuma</center>
-<center>  - Kabata</center>
+- Ren
+- Hiraki
+- Yuma
+- Kabata
 
 &nbsp;
 
-<div align=center><a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a></div>
+<a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
-<div align=center><a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a></div>
+<a href="http://createactouc.dip.jp/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/createactouc.gif" width="220"/></a>
 
 &nbsp;
 
