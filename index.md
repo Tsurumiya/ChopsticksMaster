@@ -1,5 +1,7 @@
 {% include youtube.html id='2PM3iyUdIa4' %}
 
+&nbsp;
+
 まずい...敵がだんだん増えてきた
 
 避け続けるのも限界か...
@@ -59,9 +61,7 @@
 
 &nbsp;
 
-## Links/Contact
-
-札幌ゲーム製作者コミュニティKawaz学生部 開発第二班
+## リンク
 
 <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
