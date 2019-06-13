@@ -18,7 +18,7 @@
 
 &nbsp;
 
-自分の技術と愛箸（あいぼう）を信じて、道を切り開け！
+自分の技術と<ruby><rb>愛箸</rb><rp>（</rp><rt>あいぼう</rt><rp>）</rp></ruby>を信じて、道を切り開け！
 
 &nbsp;
 
@@ -64,8 +64,6 @@
 <strong>小樽商科大学 創作活動部</strong>
 - Yuma
 - Kabata
-
-&nbsp;
 
 <a href="https://www.kawaz.org/"><img src="https://github.com/Tsurumiya/ChopsticksMaster/raw/master/assets/images/kawaz.png" width="220"/></a>
 
