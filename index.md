@@ -18,7 +18,7 @@
 
 &nbsp;
 
-自分の技術と<ruby><rb>愛箸</rb><rp>（</rp><rt>あいぼう</rt><rp>）</rp></ruby>を信じて、道を切り開け！
+自分の腕と<ruby><rb><strong>愛箸</strong></rb><rp>（</rp><rt>あいぼう</rt><rp>）</rp></ruby>を信じて、道を切り開け！
 
 &nbsp;
 
